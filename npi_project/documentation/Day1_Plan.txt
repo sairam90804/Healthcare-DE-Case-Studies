@@ -1,0 +1,18 @@
+
+Day 1: Setup and Ingest NPI Dataset (Batch ETL)
+
+1.1: Data Acquisition
+- Download the NPI dataset (CSV format) from CMS.
+- Alternatively, use NPPES API for real-time data querying.
+
+1.2: Ingesting Data into Databricks
+- Upload NPI dataset to Databricks using the UI.
+- Use PySpark to load CSV into DataFrame and transform to Delta Table.
+
+1.3: Data Cleaning & Transformation
+- Clean (handle missing values, remove duplicates).
+- Standardize columns (provider_type, address).
+
+1.4: Data Storage
+- Store in Delta Lake with ACID compliance.
+- Use Delta format for versioning and schema evolution.

@@ -1,0 +1,15 @@
+
+Day 3: Real-time Integration & Expansion
+
+3.1: FHIR API Integration
+- Real-time provider lookup.
+
+3.2: Kafka Streaming
+- Stream claim updates.
+- Real-time fraud detection using Spark Structured Streaming.
+
+3.3: Medicare Claims Integration
+- Batch load Medicare claims into Delta Lake.
+
+3.4: Dashboarding
+- Power BI/Tableau for visualizations.

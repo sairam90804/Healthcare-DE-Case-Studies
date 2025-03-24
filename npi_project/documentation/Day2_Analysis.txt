@@ -1,0 +1,13 @@
+
+Day 2: Data Analysis & Validation
+
+2.1: Basic SQL Queries
+- Provider density, specialty distribution.
+- Geographical insights.
+
+2.2: Advanced Analytics
+- Duplicate NPI detection.
+- Underutilized provider identification.
+
+2.3: Data Quality Checks
+- Missing data detection.
